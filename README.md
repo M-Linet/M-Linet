@@ -1,6 +1,6 @@
 # Hi, I'm Linet
 
-Data Science and Analytics student building AI and data tools for health, with a focus on Kenya and East Africa.
+Data Science and Analytics student building machine learning systems for real-world problems, with a particular interest in health.
 
 **Open to data science, ML, and AI roles.**
 
